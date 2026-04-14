@@ -116,7 +116,9 @@ RAG App is a Python-based application designed to enhance natural language under
 
 ## Contributions
 
-Contributions are welcome! Please submit issues or feature requests via GitHub's [issue tracker](https://github.com/aliosmankaya/rag-app/issues).
+# RAG App - MultiDoc AI
+
+Developed by: Eman Shahid
 
 ## License
 
