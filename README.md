@@ -8,8 +8,7 @@ RAG App is a Python-based application designed to enhance natural language under
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aliosmankaya/rag-app.git
-   cd rag-app
+   
    ```
 2. Install dependencies using Poetry:
    ```bash
